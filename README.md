@@ -1,4 +1,8 @@
+
+
 # Class Activity 1 part two
+## Price Poston and William Garner
+
 
 Your first paired programming problem!
 
